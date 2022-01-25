@@ -10,9 +10,11 @@ In this course you will build a strong software development foundation and learn
 
 ### Instructional Staff
 
-Instructor: EDIT, email: EDIT, slack: EDIT
+Instructor: Alex White  
+Email: [alex.white@codefellows.com](alex.white@codefellows.com)
+Slack: [Alex White](https://codefellows.slack.com/team/U02ELQWQPDH)
 
-**[Link to Canvas Assignments](https://canvas.instructure.com/courses/EDIT)**
+**[Link to Canvas Assignments](https://canvas.instructure.com/courses/4077206)**
 
 ### Course Schedule
 
