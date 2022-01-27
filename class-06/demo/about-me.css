@@ -1,0 +1,28 @@
+header {
+  background: red;
+  border: 5px solid;
+  width: 250px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+main {
+  border: 5px solid;
+  padding: 5px;
+  margin: 25px;
+  font-family: "Helvetica Neue", "Arial", sans-serif;
+  font-style: italic;
+}
+
+footer {
+  border: 5px solid;
+}
+
+h3 {
+  text-align: right;
+  color: red;
+}
+
+#intro {
+  text-align: center;
+}
